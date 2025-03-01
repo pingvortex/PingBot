@@ -1,4 +1,3 @@
-```markdown
 # PingVortex Bot API 🤖
 
 Welcome to the **PingVortex Bot API**! This is a simple yet fun API that allows you to interact with a bot powered by basic `elif` logic. Whether you're building a chatbot, testing integrations, or just having fun, this API is here to help! 🚀
@@ -9,7 +8,9 @@ Welcome to the **PingVortex Bot API**! This is a simple yet fun API that allows 
 
 The API endpoint is available at:
 
+```
 https://pingvortex1.pythonanywhere.com/api/chat
+```
 
 ### How to Use the API 🛠️
 
@@ -29,7 +30,6 @@ https://pingvortex1.pythonanywhere.com/api/chat
      {
        "reply": "Hello, human!"
      }
-     ```
 
 3. **Example Code (Python)**:
    ```python
@@ -42,7 +42,6 @@ https://pingvortex1.pythonanywhere.com/api/chat
 
    response = requests.post(url, json=payload)
    print(response.json())
-   ```
 
 ---
 
@@ -67,4 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Made with ❤️ by **PingVortex**
-```
