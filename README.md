@@ -1,4 +1,3 @@
-```markdown
 # PingVortex Bot API 🤖
 
 Welcome to the **PingVortex Bot API**! This is a simple yet fun API that allows you to interact with a bot powered by basic `elif` logic. Whether you're building a chatbot, testing integrations, or just having fun, this API is here to help! 🚀
