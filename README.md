@@ -70,7 +70,7 @@ This bot is built using basic `elif` logic, making it simple and easy to underst
 
 ## Join the Community 🎉
 
-Have questions, suggestions, or just want to hang out? Join my Discord server!
+Have questions, suggestions, found issue with the API, or just want to hang out? Join my Discord server!
 
 [![Join Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Efe5ws6jcP)
 
