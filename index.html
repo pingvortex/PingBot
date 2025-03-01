@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Chat Assistant</title>
+    <title>PingVortex bot</title>
     <style>
         * {
             margin: 0;
@@ -19,13 +19,13 @@
             justify-content: center;
             align-items: center;
             color: white;
-            overflow: hidden; /* Prevent body scrolling */
+            overflow: hidden;
         }
 
         .chat-container {
             max-width: 1200px;
             width: 95%;
-            height: 90vh; /* Fixed height for the chat container */
+            height: 90vh;
             background: rgba(255, 255, 255, 0.05);
             border-radius: 15px;
             backdrop-filter: blur(10px);
@@ -37,7 +37,7 @@
         .chat-messages {
             flex-grow: 1;
             padding: 20px;
-            overflow-y: auto; /* Enable scrolling for chat messages */
+            overflow-y: auto;
             display: flex;
             flex-direction: column;
             gap: 15px;
@@ -209,11 +209,9 @@
             const message = userInput.value.trim();
             if (!message) return;
 
-            // Add user message
             addMessage(message, 'user');
             userInput.value = '';
             
-            // Show typing indicator
             typingIndicator.style.display = 'block';
             scrollToBottom();
 
