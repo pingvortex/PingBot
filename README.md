@@ -31,7 +31,6 @@ https://pingvortex1.pythonanywhere.com/api/chat
      {
        "reply": "Hello, human!"
      }
-     ```
 
 3. **Example Code (Python)**:
    ```python
@@ -44,7 +43,6 @@ https://pingvortex1.pythonanywhere.com/api/chat
 
    response = requests.post(url, json=payload)
    print(response.json())
-   ```
 
 ---
 
