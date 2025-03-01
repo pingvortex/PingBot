@@ -50,7 +50,7 @@ https://pingvortex1.pythonanywhere.com/api/chat
 ## Chat with the Bot 💬
 
 You can interact with the bot directly on the demo page:  
-👉 [https://pingvortex.github.io/Text-To-Wav/](https://pingvortex.github.io/PingVortexBot/)
+👉 [https://pingvortex.github.io/PingVortexBot/](https://pingvortex.github.io/PingVortexBot/)
 
 ### How It Works:
 - The demo page uses the **PingVortex Bot API** to send user input and display the bot's response.
