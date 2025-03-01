@@ -9,9 +9,7 @@ Welcome to the **PingVortex Bot API**! This is a simple yet fun API that allows 
 
 The API endpoint is available at:
 
-```
 https://pingvortex1.pythonanywhere.com/api/chat
-```
 
 ### How to Use the API 🛠️
 
